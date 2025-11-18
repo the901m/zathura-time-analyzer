@@ -46,3 +46,6 @@ Average Duration per Page (for unique pages in range): 7.25 minutes
 image output:
 
 <img width="728" height="436" alt="image" src="https://github.com/user-attachments/assets/45a8e6e8-bc61-48b3-ad56-15c67ef600b8" />
+
+# todo
+- add an option to recieve data from a specified timestamp (improve API usage)
